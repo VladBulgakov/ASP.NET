@@ -1,0 +1,14 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link href="@Url.Content("~/Content/SiteStyle.css")" rel="stylesheet" type="text/css" />
+    <title>@ViewBag.Title</title>
+    @RenderSection("head", required: false)
+</head>
+<body>
+    <h1>"Добро пожаловать"</h1>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>
