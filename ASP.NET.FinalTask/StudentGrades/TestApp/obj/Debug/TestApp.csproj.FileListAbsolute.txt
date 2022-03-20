@@ -1,0 +1,15 @@
+D:\ASP.NET.FinalTask\StudentGrades\TestApp\bin\Debug\TestApp.exe.config
+D:\ASP.NET.FinalTask\StudentGrades\TestApp\bin\Debug\TestApp.exe
+D:\ASP.NET.FinalTask\StudentGrades\TestApp\bin\Debug\TestApp.pdb
+D:\ASP.NET.FinalTask\StudentGrades\TestApp\bin\Debug\StudentGradesDAL.dll
+D:\ASP.NET.FinalTask\StudentGrades\TestApp\bin\Debug\EntityFramework.dll
+D:\ASP.NET.FinalTask\StudentGrades\TestApp\bin\Debug\StudentGradesDAL.pdb
+D:\ASP.NET.FinalTask\StudentGrades\TestApp\bin\Debug\StudentGradesDAL.dll.config
+D:\ASP.NET.FinalTask\StudentGrades\TestApp\bin\Debug\EntityFramework.xml
+D:\ASP.NET.FinalTask\StudentGrades\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+D:\ASP.NET.FinalTask\StudentGrades\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+D:\ASP.NET.FinalTask\StudentGrades\TestApp\obj\Debug\TestApp.csproj.CopyComplete
+D:\ASP.NET.FinalTask\StudentGrades\TestApp\obj\Debug\TestApp.exe
+D:\ASP.NET.FinalTask\StudentGrades\TestApp\obj\Debug\TestApp.pdb
+D:\ASP.NET.FinalTask\StudentGrades\TestApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASP.NET.FinalTask\StudentGrades\TestApp\bin\Debug\EntityFramework.SqlServer.xml
